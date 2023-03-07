@@ -7,7 +7,11 @@ published: true
 published_at: 2019-07-08 09:00
 ---
 
-前回 [Selenium 4でページ全体のスクリーンショットを取得する（Java/Google Chrome）](https://zenn.dev/takeya0x86/articles/selenium4-full-screenshot-java-chrome) という記事を書きました。
+前回
+
+https://zenn.dev/takeya0x86/articles/selenium4-full-screenshot-java-chrome
+
+という記事を書きました。
 
 今回は同じくページ全体のスクリーンショットをFirefoxでやってみたいと思います。と言ってもChromeの時より簡単です。
 
