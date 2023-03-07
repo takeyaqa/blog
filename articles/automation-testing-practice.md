@@ -1,7 +1,7 @@
 ---
 title: "テスト自動化学習向けのデモサイトを作成しました"
 emoji: "🌠"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["selenium", "test", "automation", "webdriverio", "beginner"]
 published: true
 published_at: 2020-04-15 09:00

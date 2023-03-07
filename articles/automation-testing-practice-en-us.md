@@ -1,7 +1,7 @@
 ---
 title: "テスト自動化練習サイトの英語版をリリースしました"
 emoji: "🌠"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["selenium", "test", "automation", "webdriverio", "beginner"]
 published: true
 published_at: 2020-08-02 09:00
