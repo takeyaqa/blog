@@ -4,6 +4,7 @@ emoji: "🙆"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["selenium", "test", "automation", "chrome"]
 published: true
+published_at: 2023-03-23 09:00
 ---
 
 https://twitter.com/titusfortner/status/1633524991848243207
