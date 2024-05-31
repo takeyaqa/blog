@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/takeya0x86/blog.git"
+    "url": "git+https://github.com/takeyaqa/blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/takeya0x86/blog/issues"
+    "url": "https://github.com/takeyaqa/blog/issues"
   },
-  "homepage": "https://github.com/takeya0x86/blog#readme",
+  "homepage": "https://github.com/takeyaqa/blog#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.141"
+    "zenn-cli": "^0.1.153"
   }
 }
