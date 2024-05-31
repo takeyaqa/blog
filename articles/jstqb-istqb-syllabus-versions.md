@@ -3,7 +3,7 @@ title: "JSTQBとISTQBのシラバスバージョンのまとめ"
 emoji: "🪪"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["test", "JSTQB"]
-published: false
+published: true
 ---
 
 ## この記事は？
