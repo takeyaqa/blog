@@ -9,7 +9,7 @@ published_at: 2018-12-14 09:00
 
 **内容を2019年版に更新した記事を作成しました！**
 
-https://zenn.dev/takeya0x86/articles/selenium-ide-tutorial-2019
+https://zenn.dev/takeyaqa/articles/selenium-ide-tutorial-2019
 
 この記事は [Selenium/Appium Advent Calendar 2018](https://qiita.com/advent-calendar/2018/selenium_and_appium) の14日目の記事です。
 

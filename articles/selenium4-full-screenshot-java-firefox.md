@@ -9,7 +9,7 @@ published_at: 2019-07-08 09:00
 
 前回
 
-https://zenn.dev/takeya0x86/articles/selenium4-full-screenshot-java-chrome
+https://zenn.dev/takeyaqa/articles/selenium4-full-screenshot-java-chrome
 
 という記事を書きました。
 

@@ -28,7 +28,7 @@ idやclassを中心とした従来のlocatorに代わり、ある要素を基準
 
 詳しくはこちらの記事をご覧ください。
 
-https://zenn.dev/takeya0x86/articles/selenium4-relative-locator
+https://zenn.dev/takeyaqa/articles/selenium4-relative-locator
 
 ## Chrome Debugging Protocolサポート
 
@@ -36,7 +36,7 @@ https://zenn.dev/takeya0x86/articles/selenium4-relative-locator
 
 詳しくはこちらの記事をご覧ください。
 
-https://zenn.dev/takeya0x86/articles/selenium4-chrome-devtools-protocol
+https://zenn.dev/takeyaqa/articles/selenium4-chrome-devtools-protocol
 
 ## まとめ
 

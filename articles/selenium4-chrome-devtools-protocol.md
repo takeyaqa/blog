@@ -9,7 +9,7 @@ published_at: 2019-12-28 09:00
 
 この記事は[Selenium/Appium Advent Calendar 2019](https://qiita.com/advent-calendar/2019/selenium_and_appium)の14日目の記事です。[^1]
 
-[3日目の記事](https://zenn.dev/takeya0x86/articles/selenium4-new-features-alpha)ではSelenium 4の新機能をざっと紹介しました。[11日目の記事](https://zenn.dev/takeya0x86/articles/selenium4-relative-locator)では新機能のひとつであるRelative Locatorについて解説しました。
+[3日目の記事](https://zenn.dev/takeyaqa/articles/selenium4-new-features-alpha)ではSelenium 4の新機能をざっと紹介しました。[11日目の記事](https://zenn.dev/takeyaqa/articles/selenium4-relative-locator)では新機能のひとつであるRelative Locatorについて解説しました。
 この記事ではもう一つの新機能であるChrome DevTools Protocol連携について解説したいと思います。
 
 **この記事の内容はalpha版にもとづいています。正式リリースまでに内容が変更となる可能性がありますのでご注意ください。**

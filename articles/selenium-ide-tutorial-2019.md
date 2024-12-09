@@ -9,7 +9,7 @@ published_at: 2019-12-23 09:00
 
 この記事は [Selenium/Appium Advent Calendar 2019](https://qiita.com/advent-calendar/2019/selenium_and_appium) の23日目の記事です。
 
-また、この記事は [Selenium/Appium Advent Calendar 2018の14日目の記事](https://zenn.dev/takeya0x86/articles/selenium-ide-tutorial) を2019年版としてアップデートしたものです。
+また、この記事は [Selenium/Appium Advent Calendar 2018の14日目の記事](https://zenn.dev/takeyaqa/articles/selenium-ide-tutorial) を2019年版としてアップデートしたものです。
 
 この記事ではツールを使ったブラウザの自動化をやってみたい！　という自動化ビギナーの皆さんに向けて、Selenium IDEを使った自動テストの作り方を（ほぼ）ステップバイステップで解説します。
 

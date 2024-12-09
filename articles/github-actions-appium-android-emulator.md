@@ -9,7 +9,7 @@ published_at: 2019-10-07 09:00
 
 前回の記事
 
-https://zenn.dev/takeya0x86/articles/github-actions-appium-iphone-simulator
+https://zenn.dev/takeyaqa/articles/github-actions-appium-iphone-simulator
 
 でGithub Actionsの環境でiOS Simulatorを動かす方法を書きました。今回はAndroid Emulatorを動かしてみたいと思います。
 

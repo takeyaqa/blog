@@ -9,7 +9,7 @@ published_at: 2020-08-02 09:00
 
 以前の記事
 
-https://zenn.dev/takeya0x86/articles/automation-testing-practice
+https://zenn.dev/takeyaqa/articles/automation-testing-practice
 
 で紹介したテスト自動化[^1]の練習用サイト「[HOTEL PLANISPHERE](https://hotel.testplanisphere.dev/)」ですが、このたび英語版をリリースしました。
 
