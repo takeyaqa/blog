@@ -3,7 +3,7 @@
   "private": true,
   "license": "CC-BY-SA-4.0",
   "dependencies": {
-    "zenn-cli": "^0.2.9"
+    "zenn-cli": "0.2.9"
   },
   "devEngines": {
     "runtime": {
