@@ -4,5 +4,15 @@
   "license": "CC-BY-SA-4.0",
   "dependencies": {
     "zenn-cli": "^0.2.9"
+  },
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": ">=24 <25"
+    },
+    "packageManager": {
+      "name": "pnpm",
+      "version": ">=10 <11"
+    }
   }
 }
