@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       zenn-cli:
-        specifier: 0.2.10
+        specifier: ^0.2.10
         version: 0.2.10
 
 packages:
