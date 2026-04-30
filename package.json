@@ -6,12 +6,12 @@
     "zenn-cli": "^0.4.7"
   },
   "engines": {
-    "node": "^22"
+    "node": "^24"
   },
   "devEngines": {
     "runtime": {
       "name": "node",
-      "version": "^22"
+      "version": "^24"
     },
     "packageManager": [
       {
