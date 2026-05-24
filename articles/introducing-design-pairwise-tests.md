@@ -20,7 +20,7 @@ https://github.com/takeyaqa/tester-skills
 ### インストール
 
 ```shellsession
-npx skills add takeyaqa/tester-skills
+$ npx skills add takeyaqa/tester-skills
 ```
 
 ## `design-pairwise-tests` とは
